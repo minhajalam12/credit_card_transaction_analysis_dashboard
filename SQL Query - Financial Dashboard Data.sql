@@ -83,16 +83,9 @@ SET datestyle TO 'ISO, DMY';
 
 -- copy additional data (week-53) in cc_detail table
 
-COPY cc_detail
-FROM 'D:\cc_add.csv' 
-DELIMITER ',' 
-CSV HEADER;
+import csv data file into existing database and tables.
 
 
 -- copy additional data (week-53) in cust_detail table (remember to update the file name and file location in below query)
 
-COPY cust_detail
-FROM 'D:\cust_add.csv' 
-DELIMITER ',' 
-CSV HEADER;
-
+import  csv data file into existing database and tables.
