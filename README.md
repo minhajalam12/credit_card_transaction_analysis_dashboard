@@ -1,4 +1,4 @@
-# credit_card_analysis_dashboard - using sql and powerbi.
+# credit_card_analysis_dashboard - using SQL and Powerbi.
 
 # Project Objective:-
 
@@ -91,7 +91,22 @@ Interaction: Explore the various filters (Week, Qtr, Card Category, etc.) and vi
 
 # 
 Dashboard Screenshot1-  https://github.com/minhajalam12/credit_card_transaction_analysis_dashboard/blob/main/credit_card_analysis_dashboard1.pdf
-Dashboard 2  -
+Dashboard 2  - https://github.com/minhajalam12/credit_card_transaction_analysis_dashboard/blob/main/credit_card_analysis_dashboard2.pdf
+
+
+
+# Contribution and Contact
+
+Feel free to fork the repository, raise issues, or suggest improvements.
+
+Name:- Minhaj alam
+
+LinkedIn: [www.linkedin.com/in/minhaj-alam-0032741aa]
+
+Email: [minhajalam5989@gmail.com]
+
+
+Thanks...,
 
 
 
