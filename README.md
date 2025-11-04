@@ -1,17 +1,18 @@
-# credit_card_transaction_analysis_dashboard - using sql and powerbi.
+# credit_card_analysis_dashboard - using sql and powerbi.
 
-#Project Objective:-
+# Project Objective:-
 
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor 
 and analyze credit card operations effectively. and also this project showcases a dynamic and interactive Credit Card Transaction Report built using Power BI and Sql. The dashboard provides a 360-degree view of credit card usage, revenue streams, and customer behavior across different categories and demographics.
 
 # Steps:-
-1. Prepare csv file
-2. Create database and tables in SQL
-3. Import csv file into SQL databse
-4. Get SQL server database into powerbi
+    1. Prepare csv file
+    2. Create database and tables in SQL
+    3. Import csv file into SQL databse
+    4. Get SQL server database into powerbi
    
 # EDA:-
+
 perform exploritry data analysis to handle missing value and unsturcture data by using excel.
 Adding some useful coloumn like agegroup,incomegroup,weeknum2,current_week_revenue,previous_week_revenue,growth_over_week by using DAX Query.
 
@@ -44,6 +45,19 @@ Top Spending Category: Bills and Entertainment are the leading expense types.
 
  Education Level: Customers with a Graduate level of education contribute the most significantly to revenue (23M).
 
+
+# Project Insights- Week 53 (31st Dec)
+     WoW change: 
+    • Revenue increased by 28.8%, 
+    • Overall revenue is 57M
+    • Total interest is 8M
+    • Total transaction amount is 46M
+    • Male customers are contributing more in revenue 31M, female 26M
+    • Blue & Silver credit card are contributing to 93% of overall transactions
+    • TX, NY & CA is contributing to 68%
+    • Overall Activation rate is 57.5%
+    • Overall Delinquent rate is 6.06%
+
  # Tech Stack and Tools
  
     This project leverages the following technologies for data processing, analysis, and visualization:
@@ -75,8 +89,9 @@ Open the File: Navigate to the reports folder and open the Credit_Card_Report.pb
 Interaction: Explore the various filters (Week, Qtr, Card Category, etc.) and visual interactions to drill down into specific data segments.
 
 
-# Dashboard Screenshot
-
+# 
+Dashboard Screenshot1-  https://github.com/minhajalam12/credit_card_transaction_analysis_dashboard/blob/main/credit_card_analysis_dashboard1.pdf
+Dashboard 2  -
 
 
 
